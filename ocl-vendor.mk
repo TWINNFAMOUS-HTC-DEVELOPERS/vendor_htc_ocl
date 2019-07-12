@@ -460,27 +460,16 @@ PRODUCT_COPY_FILES += \
     vendor/htc/ocl/proprietary/vendor/firmware/cpp_firmware_v1_5_2.fw:system/vendor/firmware/cpp_firmware_v1_5_2.fw \
     vendor/htc/ocl/proprietary/vendor/firmware/cpp_firmware_v1_6_0.fw:system/vendor/firmware/cpp_firmware_v1_6_0.fw \
     vendor/htc/ocl/proprietary/vendor/firmware/cpp_firmware_v1_8_0.fw:system/vendor/firmware/cpp_firmware_v1_8_0.fw \
-    vendor/htc/ocl/proprietary/vendor/firmware/crbtfw21.tlv:system/vendor/firmware/crbtfw21.tlv \
-    vendor/htc/ocl/proprietary/vendor/firmware/crnv21.bin:system/vendor/firmware/crnv21.bin \
     vendor/htc/ocl/proprietary/vendor/firmware/edge_xr15510.img:system/vendor/firmware/edge_xr15510.img \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1145_fpctzappfingerprint.b00:system/vendor/firmware/fpc1145_fpctzappfingerprint.b00 \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1145_fpctzappfingerprint.b01:system/vendor/firmware/fpc1145_fpctzappfingerprint.b01 \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1145_fpctzappfingerprint.b02:system/vendor/firmware/fpc1145_fpctzappfingerprint.b02 \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1145_fpctzappfingerprint.b03:system/vendor/firmware/fpc1145_fpctzappfingerprint.b03 \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1145_fpctzappfingerprint.b04:system/vendor/firmware/fpc1145_fpctzappfingerprint.b04 \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1145_fpctzappfingerprint.b05:system/vendor/firmware/fpc1145_fpctzappfingerprint.b05 \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1145_fpctzappfingerprint.b06:system/vendor/firmware/fpc1145_fpctzappfingerprint.b06 \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1145_fpctzappfingerprint.b07:system/vendor/firmware/fpc1145_fpctzappfingerprint.b07 \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1145_fpctzappfingerprint.mdt:system/vendor/firmware/fpc1145_fpctzappfingerprint.mdt \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1262_fpctzappfingerprint.b00:system/vendor/firmware/fpc1262_fpctzappfingerprint.b00 \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1262_fpctzappfingerprint.b01:system/vendor/firmware/fpc1262_fpctzappfingerprint.b01 \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1262_fpctzappfingerprint.b02:system/vendor/firmware/fpc1262_fpctzappfingerprint.b02 \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1262_fpctzappfingerprint.b03:system/vendor/firmware/fpc1262_fpctzappfingerprint.b03 \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1262_fpctzappfingerprint.b04:system/vendor/firmware/fpc1262_fpctzappfingerprint.b04 \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1262_fpctzappfingerprint.b05:system/vendor/firmware/fpc1262_fpctzappfingerprint.b05 \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1262_fpctzappfingerprint.b06:system/vendor/firmware/fpc1262_fpctzappfingerprint.b06 \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1262_fpctzappfingerprint.b07:system/vendor/firmware/fpc1262_fpctzappfingerprint.b07 \
-    vendor/htc/ocl/proprietary/vendor/firmware/fpc1262_fpctzappfingerprint.mdt:system/vendor/firmware/fpc1262_fpctzappfingerprint.mdt \
+    vendor/htc/ocl/proprietary/vendor/firmware/fpc1155_fpctzappfingerprint.b00:system/vendor/firmware/fpc1155_fpctzappfingerprint.b00 \
+    vendor/htc/ocl/proprietary/vendor/firmware/fpc1155_fpctzappfingerprint.b01:system/vendor/firmware/fpc1155_fpctzappfingerprint.b01 \
+    vendor/htc/ocl/proprietary/vendor/firmware/fpc1155_fpctzappfingerprint.b02:system/vendor/firmware/fpc1155_fpctzappfingerprint.b02 \
+    vendor/htc/ocl/proprietary/vendor/firmware/fpc1155_fpctzappfingerprint.b03:system/vendor/firmware/fpc1155_fpctzappfingerprint.b03 \
+    vendor/htc/ocl/proprietary/vendor/firmware/fpc1155_fpctzappfingerprint.b04:system/vendor/firmware/fpc1155_fpctzappfingerprint.b04 \
+    vendor/htc/ocl/proprietary/vendor/firmware/fpc1155_fpctzappfingerprint.b05:system/vendor/firmware/fpc1155_fpctzappfingerprint.b05 \
+    vendor/htc/ocl/proprietary/vendor/firmware/fpc1155_fpctzappfingerprint.b06:system/vendor/firmware/fpc1155_fpctzappfingerprint.b06 \
+    vendor/htc/ocl/proprietary/vendor/firmware/fpc1155_fpctzappfingerprint.b07:system/vendor/firmware/fpc1155_fpctzappfingerprint.b07 \
+    vendor/htc/ocl/proprietary/vendor/firmware/fpc1155_fpctzappfingerprint.mdt:system/vendor/firmware/fpc1155_fpctzappfingerprint.mdt \
     vendor/htc/ocl/proprietary/vendor/firmware/gf5288_goodix_fp.b00:system/vendor/firmware/gf5288_goodix_fp.b00 \
     vendor/htc/ocl/proprietary/vendor/firmware/gf5288_goodix_fp.b01:system/vendor/firmware/gf5288_goodix_fp.b01 \
     vendor/htc/ocl/proprietary/vendor/firmware/gf5288_goodix_fp.b02:system/vendor/firmware/gf5288_goodix_fp.b02 \
